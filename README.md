@@ -1,21 +1,24 @@
 # About Me
 
-Hi! I'm SAKADANUPOL SEM, a passionate developer specializing in mobile and web applications.
+```txt
+// ===================================
+//   HACKER PROFILE: SAKADANUPOL SEM
+// ===================================
 
-## Code Matrix
+| Skill/Tech         | Level        | Usage                        |
+|--------------------|-------------|------------------------------|
+| JavaScript         | ████████▓░  | Web/Mobile Apps              |
+| TypeScript         | ███████▓░░  | Strong Typing                |
+| React/React Native | ████████░░  | UI Wizardry                  |
+| Node.js            | ██████▓░░░  | Backend Ops                  |
+| Python             | ██████░░░░  | Scripting/Automation         |
+| SQL/NoSQL          | █████▓░░░░  | Data Manipulation            |
+| Git/GitHub         | ████████▓░  | Version Control              |
+| REST/GraphQL       | ██████▓░░░  | API Crafting                 |
+| Docker             | ████▓░░░░░  | Container Magic              |
+| CI/CD              | ███▓░░░░░░  | DevOps Basics                |
 
-| Skill/Technology    | Experience Level | Description/Usage                        |
-|---------------------|-----------------|------------------------------------------|
-| JavaScript / TypeScript | Advanced        | Web & mobile app development             |
-| React / React Native    | Advanced        | UI frameworks for web & mobile           |
-| Node.js                | Intermediate    | Backend development                      |
-| Python                 | Intermediate    | Scripting, automation, and APIs          |
-| SQL / NoSQL Databases   | Intermediate    | Data modeling and management             |
-| Git & GitHub           | Advanced        | Version control and collaboration        |
-| REST APIs / GraphQL     | Intermediate    | API design and integration               |
-| Docker                 | Beginner        | Containerization and deployment          |
-| CI/CD                  | Beginner        | Automated testing and deployment         |
-
----
-
-Feel free to connect or check out my projects!
+// ===============================
+//   >_ Always coding in stealth mode...
+// ===============================
+```
