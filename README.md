@@ -1,18 +1,18 @@
-# 🕹️ Hacker Profile: SAKADANUPOL SEM
+# 🎮 Hacker Profile: [Your Name]
 
-| 🛠️ Skill / Tech        | 🧬 Level         | 🎮 XP Bar                                 | 📝 Notes                |
-|------------------------|------------------|-------------------------------------------|-------------------------|
-| JavaScript             | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | Web/Mobile Apps         |
-| TypeScript             | 🟡 Pro           | ████████░░░░░░░░░░░░ 40%                  | Strong Typing           |
-| React / React Native   | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | UI Wizardry             |
-| Node.js                | 🟠 Advanced      | ███████░░░░░░░░░░░░░ 35%                  | Backend Ops             |
-| Python                 | 🟠 Advanced      | ███████░░░░░░░░░░░░░ 35%                  | Scripting/Automation    |
-| SQL / NoSQL            | 🟡 Pro           | ██████░░░░░░░░░░░░░░ 30%                  | Data Manipulation       |
-| Git / GitHub           | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | Version Control         |
-| REST / GraphQL         | 🟡 Pro           | ██████░░░░░░░░░░░░░░ 30%                  | API Crafting            |
-| Docker                 | 🟣 Intermediate  | ████░░░░░░░░░░░░░░░░ 20%                  | Container Magic         |
-| CI/CD                  | 🟣 Intermediate  | ███░░░░░░░░░░░░░░░░░ 15%                  | DevOps Basics           |
+| Skill / Tech         | Level      | Notes                  |
+|----------------------|------------|------------------------|
+| JavaScript           | Expert     | Web/Mobile Apps        |
+| TypeScript           | Advanced   | Strong Typing          |
+| React / React Native | Expert     | UI Wizardry            |
+| Node.js              | Advanced   | Backend Ops            |
+| Python               | Advanced   | Scripting/Automation   |
+| SQL / NoSQL          | Intermediate | Data Manipulation    |
+| Git / GitHub         | Expert     | Version Control        |
+| REST / GraphQL       | Advanced   | API Crafting           |
+| Docker               | Intermediate | Container Magic      |
+| CI/CD                | Beginner   | DevOps Basics          |
 
 ---
 
-> 🕶️ *Leveling up every day. Press START to connect!*
+> 🚀 Always leveling up. Let’s play!
