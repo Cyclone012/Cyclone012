@@ -1,6 +1,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" style="border-radius:50%" alt="Profile Picture"><br>
   <b>Hi, I'm [Your Name]!</b><br>
   Passionate developer focused on building robust, scalable, and user-friendly applications.<br>
   <i>Always learning. Always coding.</i>
@@ -63,6 +64,21 @@
     <td>Automated Deployment</td>
   </tr>
 </table>
+
+<h3 align="center">🎯 Current Focus</h3>
+<p align="center">
+  <b>• Building scalable mobile apps with React Native</b><br>
+  <b>• Exploring cloud-native development</b><br>
+  <b>• Leveling up DevOps skills</b>
+</p>
+
+<h3 align="center">🌐 Connect with Me</h3>
+<p align="center">
+  <a href="mailto:your.email@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="https://twitter.com/yourhandle">🐦 Twitter</a> •
+  <a href="https://github.com/yourusername">🐙 GitHub</a>
+</p>
 
 <p align="center">
   <i>Let’s connect and build something amazing!</i>
