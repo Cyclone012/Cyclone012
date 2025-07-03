@@ -1,24 +1,18 @@
-# About Me
+# 🕹️ Hacker Profile: SAKADANUPOL SEM
 
-```txt
-// ===================================
-//   HACKER PROFILE: SAKADANUPOL SEM
-// ===================================
+| 🛠️ Skill / Tech        | 🧬 Level         | 🎮 XP Bar                                 | 📝 Notes                |
+|------------------------|------------------|-------------------------------------------|-------------------------|
+| JavaScript             | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | Web/Mobile Apps         |
+| TypeScript             | 🟡 Pro           | ████████░░░░░░░░░░░░ 40%                  | Strong Typing           |
+| React / React Native   | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | UI Wizardry             |
+| Node.js                | 🟠 Advanced      | ███████░░░░░░░░░░░░░ 35%                  | Backend Ops             |
+| Python                 | 🟠 Advanced      | ███████░░░░░░░░░░░░░ 35%                  | Scripting/Automation    |
+| SQL / NoSQL            | 🟡 Pro           | ██████░░░░░░░░░░░░░░ 30%                  | Data Manipulation       |
+| Git / GitHub           | 🟢 Master        | ██████████░░░░░░░░░░ 50%                  | Version Control         |
+| REST / GraphQL         | 🟡 Pro           | ██████░░░░░░░░░░░░░░ 30%                  | API Crafting            |
+| Docker                 | 🟣 Intermediate  | ████░░░░░░░░░░░░░░░░ 20%                  | Container Magic         |
+| CI/CD                  | 🟣 Intermediate  | ███░░░░░░░░░░░░░░░░░ 15%                  | DevOps Basics           |
 
-| Skill/Tech         | Level        | Usage                        |
-|--------------------|-------------|------------------------------|
-| JavaScript         | ████████▓░  | Web/Mobile Apps              |
-| TypeScript         | ███████▓░░  | Strong Typing                |
-| React/React Native | ████████░░  | UI Wizardry                  |
-| Node.js            | ██████▓░░░  | Backend Ops                  |
-| Python             | ██████░░░░  | Scripting/Automation         |
-| SQL/NoSQL          | █████▓░░░░  | Data Manipulation            |
-| Git/GitHub         | ████████▓░  | Version Control              |
-| REST/GraphQL       | ██████▓░░░  | API Crafting                 |
-| Docker             | ████▓░░░░░  | Container Magic              |
-| CI/CD              | ███▓░░░░░░  | DevOps Basics                |
+---
 
-// ===============================
-//   >_ Always coding in stealth mode...
-// ===============================
-```
+> 🕶️ *Leveling up every day. Press START to connect!*
