@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SAKADANUPOL SEM</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">lovetong106@gmail.com
+<h3 align="left">Connect with me: lovetong106@gmail.com</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
