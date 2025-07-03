@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm [Your Name], a passionate developer specializing in mobile and web applications.
+Hi! I'm SAKADANUPOL SEM, a passionate developer specializing in mobile and web applications.
 
 ## Code Matrix
 
