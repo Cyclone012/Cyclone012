@@ -74,7 +74,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="mailto:your.email@example.com">📧 Email</a> •
+  <a href="mailto:semsakadanupol@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
   <a href="https://twitter.com/yourhandle">🐦 Twitter</a> •
   <a href="https://github.com/yourusername">🐙 GitHub</a>
