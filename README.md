@@ -1,51 +1,21 @@
-# ClothesShop Auth
+# About Me
 
-Authentication module for the ClothesShop mobile app.
-
-## Features
-
-- User registration & login
-- JWT authentication
-- Secure password storage
-- API integration
-
-## Getting Started
-
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/yourusername/ClothesShop-Auth.git
-   cd ClothesShop-Auth
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Set up environment variables in `.env`.
-
-4. Run the app:
-   ```sh
-   npm start
-   ```
+Hi! I'm [Your Name], a passionate developer specializing in mobile and web applications.
 
 ## Code Matrix
 
-| File/Folder         | Purpose                                                      |
-|---------------------|-------------------------------------------------------------|
-| app/                | Main application code and routing                           |
-| components/         | Reusable UI components                                      |
-| constants/          | App-wide constants                                          |
-| contexts/           | React context providers                                     |
-| hooks/              | Custom React hooks                                          |
-| assets/             | Static assets (fonts, images)                               |
-| scripts/            | Utility scripts                                             |
-| .env                | Environment variables                                       |
-| package.json        | Project dependencies and scripts                            |
-| babel.config.js     | Babel configuration                                         |
-| tailwind.config.js  | Tailwind CSS configuration                                  |
-| tsconfig.json       | TypeScript configuration                                    |
-| android/            | Android native project files                                |
-| .expo/              | Expo-specific configuration and metadata                    |
+| Skill/Technology    | Experience Level | Description/Usage                        |
+|---------------------|-----------------|------------------------------------------|
+| JavaScript / TypeScript | Advanced        | Web & mobile app development             |
+| React / React Native    | Advanced        | UI frameworks for web & mobile           |
+| Node.js                | Intermediate    | Backend development                      |
+| Python                 | Intermediate    | Scripting, automation, and APIs          |
+| SQL / NoSQL Databases   | Intermediate    | Data modeling and management             |
+| Git & GitHub           | Advanced        | Version control and collaboration        |
+| REST APIs / GraphQL     | Intermediate    | API design and integration               |
+| Docker                 | Beginner        | Containerization and deployment          |
+| CI/CD                  | Beginner        | Automated testing and deployment         |
 
-## License
+---
 
-MIT
+Feel free to connect or check out my projects!
